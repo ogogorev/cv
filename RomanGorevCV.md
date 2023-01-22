@@ -5,7 +5,9 @@
 [Telegram](https://t.me/ogogorev)
 
 - Frontend developer with 7 years of professional experience
-- Proficient with React, Typescript, Javascript, HTML & CSS
+- Proficient with **React**, **Typescript**, **Javascript**, **HTML** & **CSS**
+- Has a strong understanding of **Effector** and **Styled Components**,  
+  also familiar with **Redux**, **Mobx**, **Gatsby.js**
 - Made an impact on multiple projects in the EU and Russia
 - Always focused on UX and effective team communication
 
