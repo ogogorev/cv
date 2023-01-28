@@ -20,6 +20,8 @@
 Frontend Developer  
 <span style="color: grey">Russia, Jun 2021 - Now</span>
 
+**React**, **Effector**, **Typescipt**, **Redux**, **Redux-Thunk**, **styled-components**, **Ant Design**
+
 Highlights
 
 - Implemented a feature allowing users to work with building construction plans in the browser
@@ -31,6 +33,8 @@ Highlights
 
 Frontend Developer  
 <span style="color: grey">Germany, Feb 2019 - Feb 2021</span>
+
+**React**, **Angular**, **Typescipt**, **Gatsby.js**, **RxJS**, **d3**, **SVG**
 
 Highlights
 
@@ -44,6 +48,8 @@ Highlights
 Frontend Developer  
 <span style="color: grey">Omsk, Russia, Apr 2017 - Oct 2017</span>
 
+**CSS**, **Vue.js**, **jQuery**, **Javascript**
+
 Highlights
 
 - Refactored legacy CSS code and improved the layout of an application.
@@ -53,6 +59,8 @@ Highlights
 
 Frontend / Haxe Developer  
 <span style="color: grey">Omsk, Russia, Aug 2015 - Apr 2017</span>
+
+**React**, **Typescipt/Javascript**, **Angular**, **Sass**, **Redux**
 
 Highlights
 
