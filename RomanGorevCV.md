@@ -39,7 +39,7 @@ Previously worked with:
 ![Static Badge](https://img.shields.io/badge/react_testing_library-grey?style=for-the-badge&logo=testinglibrary&logoColor=white&color=%23E33332)
 ![Static Badge](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest&logoColor=white&color=%23C21325)  
 ![Static Badge](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
-![Static Badge](https://img.shields.io/badge/gitlab-grey?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
+![Static Badge](https://img.shields.io/badge/gitlab_ci-grey?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
 ![Static Badge](https://img.shields.io/badge/jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939)
 
 Also familiar with:
