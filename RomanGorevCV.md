@@ -9,7 +9,7 @@
 - Interested in challenging and innovative projects
 - Prioritizes contemporary software engineering approaches, including CI/CD, and testing
 - Committed to maintain extreme rigor in all job-related activities
-- Puts high value on clear and friendly communication, and amicable atmopshere in team
+- Puts high value on clear and friendly communication, and amicable atmosphere in team
 - Speaks **English**, **German**, and **Russian**
 
 <br/>
@@ -41,7 +41,8 @@ Previously worked with:
 ![Static Badge](https://img.shields.io/badge/playwright-grey?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/gitlab_ci-grey?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
-![Static Badge](https://img.shields.io/badge/jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939)
+![Static Badge](https://img.shields.io/badge/jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939)  
+![Static Badge](https://img.shields.io/badge/canvas-grey?style=for-the-badge&color=%231572B6)
 
 Also familiar with:
 
