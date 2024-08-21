@@ -62,7 +62,7 @@ Also familiar with:
 
 ### **Bitgrip**
 
-Frontend Developer  
+Senior Frontend Developer  
 <span style="color: grey">Berlin, Germany, Apr 2023 - Now</span>
 
 Highlights
@@ -76,7 +76,7 @@ Highlights
 
 ### **Samolet**
 
-Frontend Developer  
+Senior Frontend Developer  
 <span style="color: grey">Moscow, Russia, Jun 2021 - Apr 2023</span>
 
 Highlights
