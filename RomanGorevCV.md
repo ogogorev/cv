@@ -1,16 +1,22 @@
-# **Roman Gorev**
+# **Roman Gorev** - Senior Frontend Engineer
 
-[Email](mailto:romangorev00@gmail.com) |
-[Github](https://github.com/ogogorev) |
-[Telegram](https://t.me/ogogorev)
+Contact: [email](mailto:romangorev00@gmail.com)
 
-- **Frontend** developer with **9 years** of professional experience
+<br/>
+
+## **Summary**
+
+- **9 years** in Software Engineering
+- **8 years** in Frontend Engineering
+- Primary tools: **Typescript/Javascript** (8 years), **HTML/CSS** (8 years), **React** (5 years)
+- Languages: **English**, **German**
+
+<!-- - **Frontend** developer with **9 years** of professional experience
 - Proficient in the frontend tech stack and eager to solve complex problems by adopting new technologies
 - Interested in challenging and innovative projects
 - Prioritizes contemporary software engineering approaches, including CI/CD, and testing
 - Committed to maintain extreme rigor in all job-related activities
-- Puts high value on clear and friendly communication, and amicable atmosphere in team
-- Speaks **English**, **German**, and **Russian**
+- Puts high value on clear and friendly communication, and amicable atmosphere in team -->
 
 <br/>
 
@@ -62,7 +68,7 @@ Also familiar with:
 
 ### **Bitgrip**
 
-Senior Frontend Developer  
+Senior Frontend Engineer  
 <span style="color: grey">Berlin, Germany, Apr 2023 - Now</span>
 
 Highlights
@@ -76,7 +82,7 @@ Highlights
 
 ### **Samolet**
 
-Senior Frontend Developer  
+Senior Frontend Engineer  
 <span style="color: grey">Moscow, Russia, Jun 2021 - Apr 2023</span>
 
 Highlights
@@ -90,7 +96,7 @@ Highlights
 
 ### **Accenture, Liquid Studio**
 
-Frontend Developer  
+Frontend Engineer  
 <span style="color: grey">Germany, Feb 2019 - Feb 2021</span>
 
 Highlights
@@ -104,7 +110,7 @@ Highlights
 
 ### **Live typing**
 
-Frontend Developer  
+Frontend Engineer  
 <span style="color: grey">Omsk, Russia, Apr 2017 - Oct 2017</span>
 
 Highlights
@@ -114,7 +120,7 @@ Highlights
 
 ### **Neolab**
 
-Frontend / Haxe Developer  
+Frontend / Haxe Engineer  
 <span style="color: grey">Omsk, Russia, Aug 2015 - Apr 2017</span>
 
 Highlights
