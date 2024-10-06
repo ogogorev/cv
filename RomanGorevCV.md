@@ -94,7 +94,7 @@ Highlights
 
 <br/>
 
-### **Accenture, Liquid Studio**
+### **Liquid Studio**
 
 Frontend Engineer  
 <span style="color: grey">Germany, Feb 2019 - Feb 2021</span>
